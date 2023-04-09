@@ -3,56 +3,24 @@
 
 Hardware Layout
 
-
-대표사진 삭제
-사진 설명을 입력하세요.
 Part Names
 
-Mark.
-Name
-Note
-1
-microSD card slot
 
-
-2
-40-pin Expansion Header
-
-
-3
-Power Indicator LED
-
-
-4
-USB-C port
+1. microSD card slot
+2. 40-pin Expansion Header
+3. Power Indicator LED
+4. USB-C port
 For data only
-5
-Gigabit Ethernet Port
+5. Gigabit Ethernet Port
 
 
-6
-USB 3.2 Type-A ports (x4)
-10Gpbs
-7
-DisplayPort Output Connector
-
-
-8
-DC Power Jack
-5.5mm x 2.5mm
-9
-MIPI CSI Camera Connectors (x2)
-22pin, 0.5mm pitch
-10
-M.2 Slot (Key-M, Type 2280)
-PCIe 3.0 x4
-11
-M.2 Slot (Key-M, Type 2230)
-PCIe 3.0 x2
-12
-M.2 Slot (Key-E, Type 2230)
-(populated)
-
+6. USB 3.2 Type-A ports (x4) 10Gpbs
+7. DisplayPort Output Connector
+8. DC Power Jack 5.5mm x 2.5mm
+9. MIPI CSI Camera Connectors (x2) 22pin, 0.5mm pitch
+10. M.2 Slot (Key-M, Type 2280) PCIe 3.0 x4
+11. M.2 Slot (Key-M, Type 2230) PCIe 3.0 x2
+12. M.2 Slot (Key-E, Type 2230) (populated)
 
 Port and Connector Details
 Note
@@ -112,9 +80,6 @@ MIPI CSI Camera Connectors ( 9 )
 Jetson Orin Nano 개발자 키트 캐리어 보드에는 CSI 카메라 모듈을 연결하기 위한 22위치 플렉스 커넥터 2개가 포함되어 있습니다.
 
 Raspberry Pi Camera Module v2와 같은 15핀 커넥터로 CSI 카메라 모듈을 연결하려면 15핀에서 22핀으로 변환하는 케이블이 필요합니다.
-
-
-
 
 
 커넥터는 다음을 지원합니다.
