@@ -1,4 +1,5 @@
 # orin-nanoHardware Specs
+https://developer.nvidia.com/embedded/learn/jetson-orin-nano-devkit-user-guide/hardware_spec.html
 
 
 Hardware Layout
